@@ -25,7 +25,8 @@ Choose one of the following:
 
 ### Hello World Code  
 ```[language]
-[Insert the Hello World code block here]
+[Insert the Hello World code here]
+```
 
 ### How to Run  
 **Option 1: Online**  
