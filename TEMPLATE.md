@@ -26,3 +26,37 @@ Choose one of the following:
 ### Hello World Code  
 ```[language]
 [Insert the Hello World code block here]
+
+### How to Run  
+**Option 1: Online**  
+[Link to a live online compiler or sandbox (e.g., Replit, TIO.run)]
+
+**Option 2: Local**  
+- [Install instructions or toolchain]  
+- [Command to compile or execute]
+
+### Key Concepts  
+List at least 10 core ideas or features:
+
+- Syntax style  
+- Typing discipline  
+- Execution model  
+- Common use cases  
+- Toolchain or ecosystem  
+- Paradigms supported  
+- Compilation or interpretation details  
+- Language strengths or quirks  
+- Libraries or frameworks  
+- Developer community or adoption
+
+### Try It Online  
+[Live link: Replit, TIO.run, JDoodle, etc.]
+
+### Fun Facts  
+[Interesting trivia, origins, unusual use cases, real-world impact, or cultural references.]
+
+### Resources  
+- [Official site](https://example.com)  
+- [Docs or tutorial](https://example.com/docs)  
+- [GitHub or interpreter](https://github.com/example)  
+- [Community or learning resources](https://forum.example.com)
